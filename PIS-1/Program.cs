@@ -10,7 +10,7 @@ namespace PIS_1
         static void Main(string[] args)
         {
             Console.WriteLine("Goodbye World!");
-            Console.WriteLine("Di ste kraljevi?!")
+            Console.WriteLine("Di ste kraljevi?!");
         }
     }
 }
