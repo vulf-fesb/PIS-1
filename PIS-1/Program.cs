@@ -11,6 +11,7 @@ namespace PIS_1
         {
             Console.WriteLine("Goodbye World!");
             Console.WriteLine("Di ste kraljevi?!");
+            Console.WriteLine("Verzija na serveru, simluacija drugog covjeka");
         }
     }
 }
